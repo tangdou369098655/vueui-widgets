@@ -28,7 +28,7 @@ export default {
   components: {},
   props: {
     len: {
-      type: N,
+      type: N, // 这个是轮播页面的长度哦
       default: 0
     },
     value: {
